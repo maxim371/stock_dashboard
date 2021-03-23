@@ -1,0 +1,1 @@
+IEX_TOKEN = 'sk_556b434f31a14f69a1e87a01f60a29ec'
